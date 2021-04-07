@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Ocean Predator",
+    "uniques": ["Bonus vs water units 50%"],
+    "unitTypes": ["All"]
+  },
+  {
+    "name": "Abyssal Regeneration",
+    "uniques": ["Unit will heal every turn, even if it performs an action"],
+    "unitTypes": ["All"]
+  }
+]

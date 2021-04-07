@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Xiphanctinus Rider",
+    "unitType": "WaterRanged",
+    "uniqueTo": "Thalassa",
+    "replaces": "Trireme",
+    "movement": 3,
+    "strength": 18,
+    "rangedStrength": 18,
+    "range": 3,
+    "cost": 90,
+    "requiredTech": "Horseback Riding",
+    "uniques": [
+      "Can attack submarines",
+      "Can move after attacking","1 additional attack per turn"
+    ],
+    "attackSound": "arrow"
+  },
+  {
+    "name": "Myrmidon",
+    "uniqueTo": "Thalassa",
+    "replaces": "Knight",
+    "unitType": "Mounted",
+    "movement": 5,
+    "strength": 24,
+    "rangedStrength": 12,
+    "range": 1,
+    "cost": 170,
+    "requiredTech": "Chivalry",
+    "requiredResource": "Fish",
+    "uniques": ["Can move after attacking","Units fight as though they were at full strength even when damaged",
+      "Can move immediately once bought"],
+    "promotions": ["Ocean Predator","Abyssal Regeneration"],
+    "attackSound": "horse"
+  },
+  {
+    "name": "Mosasaurus",
+    "uniqueTo": "Thalassa",
+    "replaces": "Ironclad",
+    "unitType": "WaterSubmarine",
+    "movement": 6,
+    "strength": 60,
+    "cost": 360,
+    "requiredTech": "Biology",
+    "requiredResource": "Whale",
+    "uniques": ["Can only attack water","Invisible to others","2 additional attack per turn","Can move after attacking",
+      "Double movement in coast"],
+    "promotions": ["Ocean Predator"]
+  },
+  {
+    "name": "Megalodon",
+    "uniqueTo": "Thalassa",
+    "replaces": "Caravel",
+    "unitType": "WaterSubmarine",
+    "movement": 5,
+    "strength": 40,
+    "cost": 200,
+    "requiredTech": "Biology",
+    "uniques": ["Can only attack water",
+      "Invisible to others",
+      "1 additional attack per turn",
+      "Can move after attacking"],
+    "promotions": ["Ocean Predator"]
+  }
+]

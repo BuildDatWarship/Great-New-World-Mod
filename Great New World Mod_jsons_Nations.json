@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Thalassa",
+    "leaderName": "Kadita",
+    "adjective": ["Aqarian"],
+    "startBias": "Coast",
+    "preferredVictoryType": "Domination",
+
+    "declaringWar": "I see, prepare to drown beneath the waves then.",
+    "attacked": ["Testing me I see? Don't underestimate the sea.", "It's not wise to disturb the waves human.", "Let's see what your primitive tools can do!"],
+    "defeated": "The oceans will roar once more, we shall bide our time.",
+    "introduction": "Welcome to my kingdom human, may you bring mutual blessings.",
+
+    "neutralHello": "What do you require of me?",
+    "neutralLetsHearIt": ["Elaborate?","What do you seek of this?","State your purpose."],
+    "neutralNo": ["No.","I am not in the position to agree.","I cannot agree.","Your tricks will not get you as far as you think surface dweller."],
+    "neutralYes": ["Acceptable.","I hope this is a right choice.","I trust that this is not a ploy human.","Well then, let us commence."],
+
+    "hateHello": ["Why are you here? Come to die?","If it isn't the surface apes.","Your presence is distasteful, what do you want aggressor?"],
+    "hateLetsHearIt": ["Make it quick.","Quickly, do not waste my time.","Asking for help? My my, trapped in a corner aren't you."],
+    "hateNo": ["The sharks will enjoy your flesh.","Unfortunately, your proposition is foolish","Do not mock me human."],
+    "hateYes": ["I will follow through.","Do not deceive me.","I will cast aside my enmity for now."],
+
+    "afterPeace": ["Very well, the waves will halt this time.","We will cease, but do not expect me to weaken human."],
+    "tradeRequest": ["Trading seems appropriate don't you think?","The sea holds many mysteries, would you like to see them?"],
+
+    "outerColor": [0,125,255],
+    "innerColor": [255,175,55],
+    "uniqueName": "Dominators of the Great Deep",
+    "uniques": ["Can embark and move over Coasts and Oceans immediately","+2 Sight when embarked","+2 Movement for all embarked units",
+      "Units pay only 1 movement point to embark and disembark","Connects trade routes over water","Double quantity of [Fish] produced",
+      "Double quantity of [Whales] produced","+2 Movement for all [Water] units"],
+    "cities": ["Atlantis","Lemuria","Antediluvium","Gadir","Dwarka","Kitezh","Vineta","Lyonesse","Kraton","Ys",
+      "Kur'yeh","Galuh","Lelembut","Kalujah","Airokhum","Haishen","Komanu","Terokan","Sorah","Ahyir"]
+  }
+]
