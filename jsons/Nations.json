@@ -3,7 +3,7 @@
     "name": "Thalassa",
     "leaderName": "Kadita",
     "adjective": ["Aqarian"],
-    "startBias": "Coast",
+    "startBias": ["Coast"],
     "preferredVictoryType": "Domination",
 
     "declaringWar": "I see, prepare to drown beneath the waves then.",
