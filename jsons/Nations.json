@@ -22,7 +22,7 @@
     "hateYes": ["I will follow through.","Do not deceive me.","I will cast aside my enmity for now."],
 
     "afterPeace": ["Very well, the waves will halt this time.","We will cease, but do not expect me to weaken human."],
-    "tradeRequest": "Trading seems appropriate don't you think?","The sea holds many mysteries, would you like to see them?",
+    "tradeRequest": "Trading seems appropriate don't you think?",
 
     "outerColor": [0,125,255],
     "innerColor": [255,175,55],
