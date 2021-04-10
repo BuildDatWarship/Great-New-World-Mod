@@ -7,7 +7,7 @@
     "preferredVictoryType": "Domination",
 
     "declaringWar": "I see, prepare to drown beneath the waves then.",
-    "attacked": ["Testing me I see? Don't underestimate the sea.", "It's not wise to disturb the waves human.", "Let's see what your primitive tools can do!"],
+    "attacked": "Testing me I see? Don't underestimate the sea.",
     "defeated": "The oceans will roar once more, we shall bide our time.",
     "introduction": "Welcome to my kingdom human, may you bring mutual blessings.",
 
@@ -16,7 +16,7 @@
     "neutralNo": ["No.","I am not in the position to agree.","I cannot agree.","Your tricks will not get you as far as you think surface dweller."],
     "neutralYes": ["Acceptable.","I hope this is a right choice.","I trust that this is not a ploy human.","Well then, let us commence."],
 
-    "hateHello": ["Why are you here? Come to die?","If it isn't the surface apes.","Your presence is distasteful, what do you want aggressor?"],
+    "hateHello": "If it isn't the surface apes.",
     "hateLetsHearIt": ["Make it quick.","Quickly, do not waste my time.","Asking for help? My my, trapped in a corner aren't you."],
     "hateNo": ["The sharks will enjoy your flesh.","Unfortunately, your proposition is foolish","Do not mock me human."],
     "hateYes": ["I will follow through.","Do not deceive me.","I will cast aside my enmity for now."],
