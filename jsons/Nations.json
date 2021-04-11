@@ -32,5 +32,35 @@
       "Double quantity of [Whales] produced","+2 Movement for all [Water] units"],
     "cities": ["Atlantis","Lemuria","Antediluvium","Gadir","Dwarka","Kitezh","Vineta","Lyonesse","Kraton","Ys",
       "Kur'yeh","Galuh","Lelembut","Kalujah","Airokhum","Haishen","Komanu","Terokan","Sorah","Ahyir"]
+  },
+  {
+    "name": "Sanguinarum",
+    "leaderName": "Emperor Velfern",
+    "adjective": ["Noble"],
+    "preferredVictoryType": "Domination",
+
+    "declaringWar": "Disappointing, I suppose I will have to feast on your blood.",
+    "attacked": "You dare?!",
+    "defeated": "The sunlight, it burns!",
+    "introduction": "Welcome, I hope we bring a lasting impression son of man.",
+
+    "neutralHello": "I see you have come to visit, what do you need of me?",
+    "neutralLetsHearIt": ["Interesting, perhaps you could tell me more.","What do you seek of this?","State your purpose."],
+    "neutralNo": ["Unfortunately, I decline","I reject your offer.","This does not benefit my empire."],
+    "neutralYes": ["Splendid.","I accept, may it prosper us both","Ha, I like you son of man."],
+
+    "hateHello": "Hello, would you be kind enough to pay us with your blood?",
+    "hateLetsHearIt": ["Let us see if this is worth my time.","Quickly, do not waste my time.","Asking for help? My my, trapped in a corner aren't you."],
+    "hateNo": ["Displeasing","Bah, you expect us to accept?","Revolting."],
+    "hateYes": ["I accept","Interesting, you aren't as foolish as I thought.","You have a deal son of man."],
+
+    "afterPeace": ["I accept your peace.","I shall return my troops home then."],
+    "tradeRequest": "I bring special goods from my land, are you interested in them?",
+
+    "outerColor": [0,0,0],
+    "innerColor": [255,0,0],
+    "uniqueName": "Nobility of the Evernight",
+    "uniques": ["+[-40]% combat bonus for units fighting in [Desert]","+[100]% combat bonus for units fighting in [Forest]","+[100]% combat bonus for units fighting in [Tundra]","+[100]% combat bonus for units fighting in [Jungle]","Double movement rate through Forest and Jungle","1 additional attack per turn"],
+    "cities": ["Velnox","Havenfal","Darkoreth","Gomorrah","Daeburg","Nightmourn","Silvervale","Sanguine","Vasily","Vepar","Dantalion","Mammonar","Bellephon"]
   }
 ]
