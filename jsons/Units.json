@@ -95,4 +95,49 @@
       "Can pass through impassable tiles","Units fight as though they were at full strength even when damaged","Can attack submarines"],
     "promotions": ["Ocean Predator","Abyssal Regeneration"]
   }
+  },
+  {
+    "name": "Obsolete",
+    "unitType": "Fighter",
+    "replaces": "Fighter",
+    "uniqueTo": "Thalassa",
+    "movement": 1,
+    "strength": 45,
+    "rangedStrength": 45,
+    "range": 8,
+    "interceptRange": 8,
+    "cost": 375,
+    "requiredTech": "Radar",
+    "obsoleteTech": "Radar",
+    "uniques": ["[100]% chance to intercept air attacks","Bonus vs Bomber 150%","Bonus vs Fighter 33%",
+      "6 tiles in every direction always visible"],
+    "attackSound": "shot"
+  },
+  {
+    "name": "Similarly Obsolete",
+    "unitType": "Bomber",
+    "replaces": "Bomber",
+    "uniqueTo": "Thalassa",
+    "movement": 1,
+    "strength": 70,
+    "rangedStrength": 70,
+    "range": 10,
+    "cost": 375,
+    "requiredTech": "Radar",
+    "requiredResource": "Oil",
+    "promotions": ["Evasion", "Siege I"],
+    "obsoleteTech": "Radar",
+    "attackSound": "shot"
+  },
+  {
+    "name": "Mermaid Warriors",
+    "unitType": "Melee",
+    "replaces": "Great War Infantry",
+    "uniqueTo": "Thalassa",
+    "movement": 3,
+    "strength": 65,
+    "cost": 360,
+    "requiredTech": "Replaceable Parts",
+    "uniques": ["Invisible to others", "May withdraw before melee ([90]%)","Invisible to others","This unit and all others in adjacent tiles heal 0 additional HP. This unit heals 10 additional HP outside of friendly territory."]
+  }
 ]
