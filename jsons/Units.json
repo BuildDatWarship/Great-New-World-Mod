@@ -94,7 +94,6 @@
       "7 tiles in every direction always visible","All tiles cost 1 movement",
       "Can pass through impassable tiles","Units fight as though they were at full strength even when damaged","Can attack submarines"],
     "promotions": ["Ocean Predator","Abyssal Regeneration"]
-  }
   },
   {
     "name": "Obsolete",
