@@ -6,7 +6,7 @@
   },
   {
     "name": "Abyssal Regeneration",
-    "uniques": ["Unit will heal every turn, even if it performs an action"],
+    "uniques": ["Unit will heal every turn, even if it performs an action","This unit and all others in adjacent tiles heal 5 additional HP per turn"],
     "unitTypes": ["All"]
   }
 ]
