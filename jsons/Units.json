@@ -138,5 +138,35 @@
     "cost": 360,
     "requiredTech": "Replaceable Parts",
     "uniques": ["Invisible to others", "May withdraw before melee ([90]%)","Invisible to others","This unit and all others in adjacent tiles heal 0 additional HP. This unit heals 10 additional HP outside of friendly territory."]
+  },
+  {
+    "name": "Blood Virgin",
+    "unitType": "Civilian",
+    "uniqueTo": "Sanguinarum",
+    "replaces": "Scout",
+    "movement": 3,
+    "cost": 40,
+    "requiredTech": "Drama and Poetry",
+    "uniques": [
+      "This unit and all others in adjacent tiles heal 10 additional HP per turn"
+    ]
+  },
+  {
+    "name": "Vampire",
+    "unitType": "Ranged",
+    "uniqueTo": "Sanguinarum",
+    "replaces": "Knight",
+    "movement": 3,
+    "strength": 69,
+    "rangedStrength": 69,
+    "range": 3,
+    "cost": 230,
+    "requiredTech": "Chivalry",
+    "uniques": [
+      "[90]% chance to intercept air attacks", "Requires at least [13] population",
+      "May withdraw before melee [90]%", "Heals [200] damage if it kills a unit",
+      "Units fight as though they were at full strength even when damaged",
+      "This unit and all others in adjacent tiles heal 0 additional HP. This unit heals 15 additional HP outside of friendly territory."
+    ]
   }
 ]
