@@ -60,7 +60,7 @@
     "outerColor": [0,0,0],
     "innerColor": [255,0,0],
     "uniqueName": "Nobility of the Evernight",
-    "uniques": ["+[-40]% combat bonus for units fighting in [Desert]","+[100]% combat bonus for units fighting in [Forest]","+[100]% combat bonus for units fighting in [Tundra]","+[100]% combat bonus for units fighting in [Jungle]","Double movement rate through Forest and Jungle","1 additional attack per turn"],
+    "uniques": ["+[-60]% combat bonus for units fighting in [Desert]","+[100]% combat bonus for units fighting in [Forest]","+[100]% combat bonus for units fighting in [Tundra]","+[100]% combat bonus for units fighting in [Jungle]","Double movement rate through Forest and Jungle","1 additional attack per turn"],
     "cities": ["Velnox","Havenfal","Darkoreth","Gomorrah","Daeburg","Nightmourn","Silvervale","Sanguine","Vasily","Vepar","Dantalion","Mammonar","Bellephon"]
   }
 ]
