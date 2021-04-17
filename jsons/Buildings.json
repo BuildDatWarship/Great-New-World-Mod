@@ -1,0 +1,14 @@
+[
+  {
+  "name": "Vampire Castle",
+  "cityStrength": 15,
+  "cityHealth": 30,
+    "uniqueTo": "Sanguinarum",
+    "maintenance": 13,
+  "hurryCostModifier": 130,
+    "uniques":["[60]% of food is carried over after population increases",
+      "[+1 Gold] Per [2] Population in this city","[1] free [Vampire] units appear"],
+  "requiredBuilding": "Walls",
+  "requiredTech": "Chivalry"
+  }
+]

@@ -27,7 +27,7 @@
     "requiredTech": "Chivalry",
     "requiredResource": "Fish",
     "uniques": ["Can move after attacking","Units fight as though they were at full strength even when damaged",
-      "Can move immediately once bought"],
+      "Can move immediately once bought","Amphibious"],
     "promotions": ["Ocean Predator","Abyssal Regeneration"],
     "attackSound": "horse"
   },
@@ -92,7 +92,7 @@
     "uniques": ["Requires at least [7] population",
       "[75]% chance to intercept air attacks",
       "7 tiles in every direction always visible","All tiles cost 1 movement",
-      "Can pass through impassable tiles","Units fight as though they were at full strength even when damaged","Can attack submarines"],
+      "Can pass through impassable tiles","Units fight as though they were at full strength even when damaged","Can attack submarines","Amphibious"],
     "promotions": ["Ocean Predator","Abyssal Regeneration"]
   },
   {
@@ -137,7 +137,7 @@
     "strength": 65,
     "cost": 360,
     "requiredTech": "Replaceable Parts",
-    "uniques": ["Invisible to others", "May withdraw before melee ([90]%)","Invisible to others","This unit and all others in adjacent tiles heal 0 additional HP. This unit heals 10 additional HP outside of friendly territory."]
+    "uniques": ["Invisible to others", "May withdraw before melee ([90]%)","Invisible to others","This unit and all others in adjacent tiles heal 0 additional HP. This unit heals 10 additional HP outside of friendly territory.","Amphibious"]
   },
   {
     "name": "Blood Virgin",
@@ -165,7 +165,8 @@
       "[90]% chance to intercept air attacks", "Requires at least [13] population",
       "May withdraw before melee [90]%", "Heals [200] damage if it kills a unit",
       "Units fight as though they were at full strength even when damaged",
-      "This unit and all others in adjacent tiles heal 0 additional HP. This unit heals 15 additional HP outside of friendly territory."
+      "This unit and all others in adjacent tiles heal 0 additional HP. This unit heals 15 additional HP outside of friendly territory.",
+      "Unable to capture cities"
     ]
   }
 ]

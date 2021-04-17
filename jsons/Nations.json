@@ -42,7 +42,7 @@
     "declaringWar": "Disappointing, I suppose I will have to feast on your blood.",
     "attacked": "You dare?!",
     "defeated": "The sunlight, it burns!",
-    "introduction": "Welcome, I hope we bring a lasting impression son of man.",
+    "introduction": "Welcome, I hope we bring a lasting impression.",
 
     "neutralHello": "I see you have come to visit, what do you need of me?",
     "neutralLetsHearIt": ["Interesting, perhaps you could tell me more.","What do you seek of this?","State your purpose."],
@@ -57,10 +57,10 @@
     "afterPeace": ["I accept your peace.","I shall return my troops home then."],
     "tradeRequest": "I bring special goods from my land, are you interested in them?",
 
-    "outerColor": [0,0,0],
-    "innerColor": [255,0,0],
+    "outerColor": [255,0,0],
+    "innerColor": [0,0,0],
     "uniqueName": "Nobility of the Evernight",
     "uniques": ["+[-60]% combat bonus for units fighting in [Desert]","+[100]% combat bonus for units fighting in [Forest]","+[100]% combat bonus for units fighting in [Tundra]","+[100]% combat bonus for units fighting in [Jungle]","Double movement rate through Forest and Jungle","1 additional attack per turn"],
-    "cities": ["Velnox","Havenfal","Darkoreth","Gomorrah","Daeburg","Nightmourn","Silvervale","Sanguine","Vasily","Vepar","Dantalion","Mammonar","Bellephon"]
+    "cities": ["Velnox","Havenfal","Darkoreth","Gomorrah","Daeburg","Nightmourn","Silvervale","Sanguine","Vasily","Vepar","Dantalion","Mammonar","Bellephon","Incuros","Nyxopolis"]
   }
 ]
