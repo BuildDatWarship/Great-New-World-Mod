@@ -78,7 +78,7 @@
   },
   {
     "name": "Leviathan",
-    "unitType": "Armor",
+    "unitType": "Melee",
     "replaces": "Nuclear Missile",
     "uniqueTo": "Thalassa",
     "movement": 2,
@@ -146,7 +146,6 @@
     "replaces": "Scout",
     "movement": 3,
     "cost": 40,
-    "requiredTech": "Drama and Poetry",
     "uniques": [
       "This unit and all others in adjacent tiles heal 10 additional HP per turn"
     ]
