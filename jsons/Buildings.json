@@ -7,7 +7,7 @@
     "maintenance": 13,
   "hurryCostModifier": 130,
     "uniques":["[60]% of food is carried over after population increases",
-      "[1] free [Vampire] units appear","-13 Gold given to enemy if city is captured"],
+      "[1] free [Vampire] units appear"],
   "requiredBuilding": "Walls",
   "requiredTech": "Chivalry"
   }

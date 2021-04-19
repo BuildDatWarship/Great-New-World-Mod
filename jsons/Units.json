@@ -41,7 +41,7 @@
     "cost": 360,
     "requiredTech": "Biology",
     "requiredResource": "Whales",
-    "uniques": ["Can only attack water","Invisible to others","2 additional attack per turn","Can move after attacking",
+    "uniques": ["Can only attack water","Invisible to others","1 additional attack per turn","Can move after attacking",
       "Double movement in coast","Can attack submarines"],
     "promotions": ["Ocean Predator"]
   },
@@ -73,7 +73,7 @@
     "requiredTech": "Acoustics",
     "requiredResource": "Oil",
     "uniques": ["Invisible to others",
-      "Can move after attacking","100% chance of capturing defeated Barbarian naval units and earning 25 Gold","[25]% chance to intercept air attacks","Can attack submarines"],
+      "Can move after attacking","67% chance of capturing defeated Barbarian naval units and earning 25 Gold","[25]% chance to intercept air attacks","Can attack submarines"],
     "promotions": ["Ocean Predator","Abyssal Regeneration"]
   },
   {
@@ -91,7 +91,7 @@
     "requiredResource": "Uranium",
     "uniques": ["Requires at least [7] population",
       "[75]% chance to intercept air attacks",
-      "7 tiles in every direction always visible","All tiles cost 1 movement",
+      "6 tiles in every direction always visible","All tiles cost 1 movement",
       "Can pass through impassable tiles","Units fight as though they were at full strength even when damaged","Can attack submarines","Amphibious"],
     "promotions": ["Ocean Predator","Abyssal Regeneration"]
   },
@@ -137,7 +137,7 @@
     "strength": 65,
     "cost": 360,
     "requiredTech": "Replaceable Parts",
-    "uniques": ["Invisible to others", "May withdraw before melee ([90]%)","Invisible to others","This unit and all others in adjacent tiles heal 0 additional HP. This unit heals 10 additional HP outside of friendly territory.","Amphibious"]
+    "uniques": ["Invisible to others", "May withdraw before melee ([90]%)","Invisible to others","This unit and all others in adjacent tiles heal 5 additional HP. This unit heals 5 additional HP outside of friendly territory.","Amphibious"]
   },
   {
     "name": "Blood Virgin",
@@ -147,7 +147,7 @@
     "movement": 3,
     "cost": 40,
     "uniques": [
-      "This unit and all others in adjacent tiles heal 10 additional HP per turn"
+      "This unit and all others in adjacent tiles heal 5 additional HP per turn"
     ]
   },
   {
@@ -165,7 +165,7 @@
       "[90]% chance to intercept air attacks", "Requires at least [13] population",
       "May withdraw before melee [90]%", "Heals [200] damage if it kills a unit",
       "Units fight as though they were at full strength even when damaged",
-      "This unit and all others in adjacent tiles heal 0 additional HP. This unit heals 15 additional HP outside of friendly territory.",
+      "This unit and all others in adjacent tiles heal 5 additional HP. This unit heals 5 additional HP outside of friendly territory.",
       "Unable to capture cities"
     ]
   }
