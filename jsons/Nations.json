@@ -27,9 +27,9 @@
     "outerColor": [0,125,255],
     "innerColor": [255,175,55],
     "uniqueName": "Dominators of the Great Deep",
-    "uniques": ["Can embark and move over Coasts and Oceans immediately","+1 Sight when embarked","+1 Movement for all embarked units",
-      "Units pay only 1 movement point to embark and disembark","Connects trade routes over water","Double quantity of [Fish] produced",
-      "Double quantity of [Whales] produced","+1 Movement for all [Water] units"],
+    "uniques": ["Can embark and move over Coasts and Oceans immediately","+1 Sight when embarked","+[1] Movement for all embarked units",
+      "Units pay only 1 movement point to embark and disembark","[+2 Production] from every [Coast]","Double quantity of [Fish] produced",
+      "Double quantity of [Whales] produced","+[2] Movement for all [Water] units"],
     "cities": ["Atlantis","Lemuria","Antediluvium","Gadir","Dwarka","Kitezh","Vineta","Lyonesse","Kraton","Ys",
       "Kur'yeh","Galuh","Lelembut","Kalujah","Airokhum","Haishen","Komanu","Terokan","Sorah","Ahyir"]
   },
@@ -60,7 +60,7 @@
     "outerColor": [255,0,0],
     "innerColor": [0,0,0],
     "uniqueName": "Nobility of the Evernight",
-    "uniques": ["+[-60]% combat bonus for units fighting in [Desert]","+[100]% combat bonus for units fighting in [Forest]","+[100]% combat bonus for units fighting in [Tundra]","+[100]% combat bonus for units fighting in [Jungle]","Double movement rate through Forest and Jungle","1 additional attack per turn"],
+    "uniques": ["+[-60]% combat bonus for units fighting in [Desert]","+[100]% combat bonus for units fighting in [Forest]","+[100]% combat bonus for units fighting in [Tundra]","Earn [300]% of [military] opponent's [Strength] as [Culture] for kills","Double movement rate through Forest and Jungle","1 additional attack per turn"],
     "cities": ["Velnox","Havenfal","Darkoreth","Gomorrah","Daeburg","Nightmourn","Silvervale","Sanguine","Vasily","Vepar","Dantalion","Mammonar","Bellephon","Incuros","Nyxopolis"]
   }
 ]

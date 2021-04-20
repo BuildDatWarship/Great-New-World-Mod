@@ -165,7 +165,6 @@
       "[90]% chance to intercept air attacks", "Requires at least [13] population",
       "May withdraw before melee [90]%", "Heals [200] damage if it kills a unit",
       "Units fight as though they were at full strength even when damaged",
-      "This unit and all others in adjacent tiles heal 5 additional HP. This unit heals 5 additional HP outside of friendly territory.",
       "Unable to capture cities"
     ]
   }
